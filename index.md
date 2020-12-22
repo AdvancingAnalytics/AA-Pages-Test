@@ -3,6 +3,7 @@
 
 Thank for visiting this page today we are working hard to get some content available but for now here is a picture of some Kittens
 
+![Image of cute kittens](kittenswhite.jpg "yey Kittens!!!")
 
 ### Documents Available
 
@@ -23,7 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image]()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
